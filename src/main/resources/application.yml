@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://www.wuxiipark.cn:3306/mybatis_plus?characterEncoding=UTF-8
+    username: mybatis
+    password: mybatis
